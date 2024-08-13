@@ -10,3 +10,4 @@ python:alpine3.19
 jenkins/jenkins:lts
 minio/minio
 nacos/nacos-server
+redis:7.2
